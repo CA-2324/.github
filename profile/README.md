@@ -1,4 +1,4 @@
-## Welcome to the Coders Assembly 🙌
+## Welcome to Coders Assembly 🙌
 
 <!--
 **Here are some ideas to get you started:**
